@@ -1,0 +1,32 @@
+[
+    {
+        "_id": 1,
+        "product": {
+            "product_id": 34538756,
+            "product_type": "book",
+            "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage"
+        },
+        "review": {
+            "user_id": 2034,
+            "reviewTitle": "Super deep coverage, learnt lots!",
+            "reviewBody": "The MongoDB experts helped me in understanding everything from queries to sharding!",
+            "date": "2023-08-08T08:56:50-0500",
+            "stars": 4
+        }
+    },
+    {
+        "_id": 2,
+        "product": {
+            "product_id": 54538756,
+            "product_type": "audiobook",
+            "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage"
+        },
+        "review": {
+            "user_id": 5178,
+            "reviewTitle": "Excellent audiobook, great MongoDB coverage!",
+            "reviewBody": "In-depth audio, broken into useful chapters on a wide range of MongoDB topics.",
+            "date": "2023-08-06T06:56:50-0500",
+            "stars": 5
+        }
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "_id": 2,
+        "product_id": 34538757,
+        "product_type": "book",
+        "title": "Practical MongoDB Aggregations",
+        "description": "The official guide to developing optimal aggregation pipelines with MongoDB 7.0",
+        "authors": [
+            "Paul Done"
+        ],
+        "publisher": "MongoDB Press",
+        "language": "English",
+        "pages": 312,
+        "catalogues": {
+            "isbn10": "1835080642",
+            "isbn13": "978-1835080641"
+        },
+        "reviews": [
+            {
+                "review_id": 23,
+                "text": "I loved this book. It was the perfect way to get started with the powerful aggregation framework.",
+                "user_id": 888,
+                "upvotes": 12,
+                "rating": 7
+            },
+            {
+                "review_id": 24,
+                "text": "My favorite book about MongoDB, hands down. It helped me understand the basics of aggregation.",
+                "user_id": 999,
+                "upvotes": 19,
+                "rating": 9
+            },
+            {
+                "review_id": 25,
+                "text": "Great resource for learning MongoDB and aggregation. I highly recommend it.",
+                "user_id": 822,
+                "upvotes": 7,
+                "rating": 8
+            },
+            {
+                "review_id": 26,
+                "text": "I really enjoyed this books. I am not one for reading physical books, but the information is definitely worth it.",
+                "user_id": 724,
+                "upvotes": 18,
+                "rating": 9
+            },
+            {
+                "review_id": 27,
+                "text": "Great resource for anyone looking to get into really taking advantage of the aggregation framework. It is practically its own language.",
+                "user_id": 135,
+                "upvotes": 312,
+                "rating": 8
+            }
+        ]
+    },
+    {
+        "_id": 1,
+        "product_id": 34538756,
+        "product_type": "book",
+        "title": "MongoDB: The Definitive Guide: Powerful and Scalable Data Storage",
+        "description": "MongoDB explained by MongoDB champions",
+        "authors": [
+            "Shannon Bradshaw",
+            "Eoin Brazil",
+            "Christina Chodorow"
+        ],
+        "publisher": "O'Reilly",
+        "language": "English",
+        "pages": 514,
+        "catalogues": {
+            "isbn10": "1491954469",
+            "isbn13": "978-1491954461"
+        },
+        "reviews": [
+            {
+                "review_id": 11,
+                "text": "This book was pretty good.",
+                "user_id": 111,
+                "upvotes": 10,
+                "rating": 10
+            },
+            {
+                "review_id": 12,
+                "text": "I loved this book. It was the perfect way to get started with MongoDB and understand the basics of MQL and the MongoDB architecture.",
+                "user_id": 222,
+                "upvotes": 193,
+                "rating": 7
+            },
+            {
+                "review_id": 13,
+                "text": "My favorite book about MongoDB, hands down. It helped me understand the basics of MongoDB and MQL.",
+                "user_id": 333,
+                "upvotes": 102,
+                "rating": 9
+            },
+            {
+                "review_id": 14,
+                "text": "Great resource for learning MongoDB. I highly recommend it.",
+                "user_id": 444,
+                "upvotes": 87,
+                "rating": 8
+            },
+            {
+                "review_id": 15,
+                "text": "I loved this book. It was the perfect way to get started with MongoDB and understand the basics of MQL and the MongoDB architecture.",
+                "user_id": 555,
+                "upvotes": 193,
+                "rating": 7
+            },
+            {
+                "review_id": 16,
+                "text": "My favorite book about MongoDB, hands down. It helped me understand the basics of MongoDB and MQL.",
+                "user_id": 666,
+                "upvotes": 102,
+                "rating": 9
+            },
+            {
+                "review_id": 17,
+                "text": "Great resource for learning MongoDB. I highly recommend it.",
+                "user_id": 777,
+                "upvotes": 87,
+                "rating": 8
+            },
+            {
+                "review_id": 18,
+                "text": "I loved this book. It was the perfect way to get started with MongoDB and understand the basics of MQL and the MongoDB architecture.",
+                "user_id": 888,
+                "upvotes": 28,
+                "rating": 7
+            },
+            {
+                "review_id": 19,
+                "text": "My favorite book about MongoDB, hands down. It helped me understand the basics of MongoDB and MQL.",
+                "user_id": 999,
+                "upvotes": 23,
+                "rating": 9
+            },
+            {
+                "review_id": 20,
+                "text": "Great resource for learning MongoDB. I highly recommend it.",
+                "user_id": 822,
+                "upvotes": 7,
+                "rating": 8
+            },
+            {
+                "review_id": 21,
+                "text": "I really enjoyed this books. I am not one for reading physical books, but the information is definitely worth it.",
+                "user_id": 724,
+                "upvotes": 81,
+                "rating": 9
+            },
+            {
+                "review_id": 22,
+                "text": "Great resource for anyone looking to get into MongoDB and starting off with best practices",
+                "user_id": 135,
+                "upvotes": 3,
+                "rating": 8
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "product_id": 34538758,
+        "product_type": "book",
+        "title": "Mastering MongoDB 7.0",
+        "description": "Explore the full potential of MongoDB 7.0 with this comprehensive guide. Mastering MongoDB 7.0 offers powerful techniques for efficient data manipulation, application integration, and security. This intermediate-to-master level book helps individuals utilize the latest version of MongoDB to achieve its full potential.",
+        "authors": [
+            "Marko Aleksendric",
+            "Arek Borucki",
+            "Leandro Domingues",
+            " Malak Abu Hammad",
+            "Elie Hannouch",
+            "Rajesh Nair",
+            "Rachelle Palmer"
+        ],
+        "publisher": "MongoDB Press",
+        "language": "English",
+        "pages": 185,
+        "catalogues": {
+            "isbn10": "183546047X",
+            "isbn13": "978-1835460474"
+        },
+        "reviews": [
+            {
+                "review_id": 28,
+                "text": "I loved this book. It was the perfect way to get started with MongoDB and understand the basics of MQL and the MongoDB architecture.",
+                "user_id": 881,
+                "upvotes": 32,
+                "rating": 7
+            },
+            {
+                "review_id": 29,
+                "text": "My favorite book about MongoDB, hands down. It helped me understand the basics of MongoDB and MQL.",
+                "user_id": 991,
+                "upvotes": 27,
+                "rating": 9
+            },
+            {
+                "review_id": 30,
+                "text": "Great resource for learning MongoDB. I highly recommend it.",
+                "user_id": 831,
+                "upvotes": 15,
+                "rating": 8
+            },
+            {
+                "review_id": 31,
+                "text": "I really enjoyed this books. I am not one for reading physical books, but the information is definitely worth it.",
+                "user_id": 731,
+                "upvotes": 71,
+                "rating": 9
+            },
+            {
+                "review_id": 32,
+                "text": "Great resource for anyone looking to get into MongoDB and starting off with best practices",
+                "user_id": 131,
+                "upvotes": 32,
+                "rating": 8
+            }
+        ]
+    }
+]
