@@ -37,7 +37,7 @@ runme:
 ```
 
 ```sh {"id":"01HSWTE18Y74DPEYNMZ983NRPQ"}
-BIN=$(m bin 7.0.6)
+BIN=$(m bin 7.0.7)
 mlaunch --replicaset --nodes 3 --port 30000 --binarypath $BIN --dir ./data
 ```
 
