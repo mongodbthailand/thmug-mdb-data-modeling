@@ -1,0 +1,15 @@
+[
+    {
+        "_id": 1,
+        "type": "parent",
+        "name": "John Doe",
+        "age": 40
+    },
+    {
+        "_id": 2,
+        "type": "child",
+        "name": "Jane Doe",
+        "age": 10,
+        "parent": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "_id": 1,
+        "patient_id": "P0001",
+        "type": "surgical",
+        "surgery_name": "Appendectomy",
+        "surgeon": "Dr. Smith",
+        "date": { "$date": "2024-01-01T10:00:00Z" }
+    },
+    {
+        "_id": 2,
+        "patient_id": "P0001",
+        "type": "dental",
+        "dentist": "Appendectomy",
+        "procedure": "Tooth Extraction",
+        "date": { "$date": "2024-02-01T10:00:00Z" }
+    }
+]
