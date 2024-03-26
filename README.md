@@ -30,7 +30,7 @@ runme:
 - Subset pattern
 - Bucket pattern
 
-[Slide](./MongoDB-Data-Modeling.pdf) 
+- [Slide](./MongoDB-Data-Modeling.pdf) 
 
 ```sh {"id":"01HSWTGMD6D0WH6D6BF4GSMHYR"}
  m 7.0.7
