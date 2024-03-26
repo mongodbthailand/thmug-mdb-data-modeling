@@ -1,0 +1,34 @@
+// products collection:
+{
+    "_id": {
+        "$oid": "66027d48d57fb8ef29b4bb33"
+    },
+    "product_name": "Laptop Dell Inspiron 15 3000",
+    "price": 34000,
+    "specifications": {
+        "processor": "Intel Core i3 7th Gen",
+        "ram": "4 GB DDR4",
+        "storage": "1 TB HDD",
+        "os": "Windows 10 Home"
+    }
+}
+// orders collection:
+{
+    "_id": {
+        "$oid": "66027daed57fb8ef29b4bb34"
+    },
+    "customer_id": "C7990",
+    "order_date": {
+        "$date": "2024-02-01T00:00:00.000Z"
+    },
+    "products": [
+        {
+            "product_id": {
+                "$oid": "66027d48d57fb8ef29b4bb33"
+            },
+            "product_name": "Laptop Dell Inspiron 15 3000",
+            "price": 34000,
+            "quantity": 1
+        }
+    ]
+}
