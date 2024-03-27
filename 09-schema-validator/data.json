@@ -1,0 +1,166 @@
+[
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b29d"
+        },
+        "review_id": "R32202411",
+        "user_id": "david23",
+        "timestamp": {
+            "$date": "2023-03-01T13:33:20.000Z"
+        },
+        "review": "Great resource for anyone looking to get into MongoDB and starting off with best practices.",
+        "comments": [
+            {
+                "user_id": "sarah324",
+                "comment": "Great book! Highly recommend it!"
+            },
+            {
+                "user_id": "charlie29",
+                "comment": "I agree!"
+            },
+            {
+                "user_id": "parker23",
+                "comment": "Well said!"
+            }
+        ],
+        "rating": 9
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b29c"
+        },
+        "review_id": "R32202410",
+        "user_id": "alice135",
+        "timestamp": {
+            "$date": "2023-06-26T20:26:00.000Z"
+        },
+        "review": "My favorite book about MongoDB, hands down. It helped me understand the basics of MongoDB and MQL.",
+        "rating": 10
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b29f"
+        },
+        "review_id": "R32202413",
+        "user_id": "rachel77",
+        "timestamp": {
+            "$date": "2023-03-18T05:33:00.000Z"
+        },
+        "review": "Great book, but kind of wish it was geared more towards beginners. I found it a bit difficult to follow at times.",
+        "rating": 7
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a0"
+        },
+        "review_id": "R32202e34",
+        "user_id": "sarah88",
+        "timestamp": {
+            "$date": "2023-07-04T12:04:03.000Z"
+        },
+        "review": "Loved it!",
+        "rating": 9
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b29e"
+        },
+        "review_id": "R32202412",
+        "user_id": "michelle99",
+        "timestamp": {
+            "$date": "2019-07-02T15:43:00.000Z"
+        },
+        "review": "I loved this book. It was the perfect way to get started with MongoDB and understand the basics of MQL and the MongoDB architecture.",
+        "comments": [
+            {
+                "user_id": "david23",
+                "comment": "I agree!"
+            },
+            {
+                "user_id": "alice135",
+                "comment": "I learned a lot!"
+            }
+        ],
+        "rating": 10
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a2"
+        },
+        "review_id": "R322022f3",
+        "user_id": "charlie29",
+        "timestamp": {
+            "$date": "2023-02-04T00:00:00.000Z"
+        },
+        "review": "I really enjoyed this books. I am not one for reading physical books, but the information is definitely worth it.",
+        "comments": [
+            {
+                "user_id": "sarah324",
+                "comment": "I agree!"
+            },
+            {
+                "user_id": "david23",
+                "comment": "Great book!"
+            }
+        ],
+        "rating": 10
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a3"
+        },
+        "review_id": "R32202553",
+        "user_id": "mac345",
+        "timestamp": {
+            "$date": "2022-01-03T04:05:00.000Z"
+        },
+        "review": "Best book I have purchased in a while. Great examples and easy to follow.",
+        "comments": [
+            {
+                "user_id": "emily44",
+                "comment": "Very easy to follow"
+            },
+            {
+                "user_id": "dennis22",
+                "comment": "Worth the price"
+            }
+        ],
+        "rating": 9
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a4"
+        },
+        "review_id": "R32202442",
+        "user_id": "dennis22",
+        "timestamp": {
+            "$date": "2021-02-23T23:03:02.000Z"
+        },
+        "review": "It was good, but I wish it had more pictures. I am a visual learner.",
+        "rating": 8
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a5"
+        },
+        "review_id": "R32202436",
+        "user_id": "jess252",
+        "timestamp": {
+            "$date": "2020-06-23T15:34:55.000Z"
+        },
+        "review": "Fantastic book, I learned a lot!",
+        "rating": 10
+    },
+    {
+        "_id": {
+            "$oid": "65bd556f4fa0341476c5b2a1"
+        },
+        "review_id": "R32202340",
+        "user_id": "parker23",
+        "timestamp": {
+            "$date": "2023-02-05T03:23:00.000Z"
+        },
+        "review": "Definitely worth the money!",
+        "rating": 8
+    }
+]
